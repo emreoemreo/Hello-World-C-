@@ -1,2 +1,2 @@
 # Hello-World-C#
- Exercise on Unity
+ This is the first Exercise on Unity
